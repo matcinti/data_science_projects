@@ -1,4 +1,4 @@
-# data_science_projectss
+# Data Science Projects
 
 Welcome to my Data Science Projects repository! Here you will find a curated selection of my most interesting and relevant projects completed over the past year.
 
